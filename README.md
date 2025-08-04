@@ -31,5 +31,5 @@
 - **Backend**: Python (Flask)  
 - **Data Handling**: CSV or JSON  
 
-## 📁 Folder Structure
+
 
